@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="PlanChecks">
+    <parameter name="url" value="https://avk.lab.vebtech.by/"/>
+    <test name="Authorization_Test" enabled="true">
+        <classes>
+            <class name="UI.Plans_flow"/>
+        </classes>
+    </test>
+</suite>

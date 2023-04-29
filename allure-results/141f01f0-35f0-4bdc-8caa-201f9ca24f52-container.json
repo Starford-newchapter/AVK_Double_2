@@ -1,0 +1,1 @@
+{"uuid":"141f01f0-35f0-4bdc-8caa-201f9ca24f52","name":"UI.Plans_flow.openUrl","children":["703acb35-7995-4490-9863-c7f2f5dc0473"],"description":"","befores":[{"name":"openUrl","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1681905678302,"stop":1681905678373}],"afters":[],"start":1681905678302,"stop":1681905678373}
